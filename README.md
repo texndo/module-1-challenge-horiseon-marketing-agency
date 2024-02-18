@@ -48,34 +48,33 @@ Welcome to Horiseon Marketing Agency, we are a full-service digital marketing ag
 You can access our services at the following link:
 
 
+
+### How we work ###
+
+At Horiseon, we believe in a collaborative approach to digital marketing. We work closely with our clients to understand their business goals, target audience, and industry landscape. Our team leverages industry best practices, cutting-edge technology, and data-driven insights to develop customized strategies that deliver results.
+
+
 ### Usage ###
 
 Here is how you can fully optimise our website: 
 
 1. Navigation Guide:
 
-❥ 
+❥   Home Page: 
 
-❥
+❥ Search Engine Optimization (SEO): Improve your website's visibility and ranking on search engines to drive organic traffic.
 
-❥
+❥ Social Media Marketing: Engage with your audience, build brand awareness, and drive conversions through strategic social media campaigns.
 
-❥
+❥ Online Reputation Management: ORM is the practice of crafting strategies to shape and influence the public perception of an individual, organization, or brand on the internet and this is what we plan to implement into your marketing strategy to grow and aid the success of your brand.  
 
+2. Get In Touch
 
-2. Frequently Asked Questions (FAQ's)
-
-❥ 
-
-❥
-
-❥
-
-❥
-
+❥ Ready to take your digital marketing to the next level? Contact us today to schedule a consultation with one of our experts. Whether you're a small local business or a global brand, we have the expertise and resources to help you succeed in the digital space.
 
 
 ### License ###
+
 
 MIT License
 
