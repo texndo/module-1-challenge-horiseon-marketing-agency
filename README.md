@@ -10,7 +10,9 @@ code refactor (on-the-job ticket) ੈ✩‧₊˚
 ### User Story ###
 
 AS A marketing agency
+
 I WANT a codebase that follows accessibility standards
+
 SO THAT our own site is optimized for search engines
 
 
@@ -37,10 +39,13 @@ Welcome to Horiseon Marketing Agency, we are a full-service digital marketing ag
 
 ### Table of Contents ###
 
-[Installation] (#Installation)
-[Usage] (#Usage)
-[Credits] (#Credits)
-[License] (#License)
+[Installation] 
+
+[Usage]
+
+[Credits]
+
+[License]
 
 
 ### Installation ###
