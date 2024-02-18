@@ -52,7 +52,7 @@ Welcome to Horiseon Marketing Agency, we are a full-service digital marketing ag
 
 You can access our services at the following link:
 
-
+https://texndo.github.io/module-1-challenge-horiseon-marketing-agency/ 
 
 ### How we work ###
 
