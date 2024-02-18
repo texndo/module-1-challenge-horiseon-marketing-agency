@@ -41,9 +41,9 @@ Welcome to Horiseon Marketing Agency, we are a full-service digital marketing ag
 
 [Installation] 
 
-[Usage]
+[How We Work]
 
-[Credits]
+[Usage]
 
 [License]
 
