@@ -7,7 +7,7 @@ code refactor (on-the-job ticket) ੈ✩‧₊˚
 ### Description ###
 
 
-## User Story ###
+### User Story ###
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
