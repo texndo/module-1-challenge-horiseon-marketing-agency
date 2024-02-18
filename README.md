@@ -1,23 +1,20 @@
-# module-1-challenge-horiseon-marketing-agency
+## module-1-challenge-horiseon-marketing-agency ##
 code refactor (on-the-job ticket) ੈ✩‧₊˚
 
-# module-1-challenge-horiseon-marketing-agency
-HTML CSS Git Challenge: Code Refactor (on-the-job ticket) 
-
-# Welcome to Horiseon Marketing Agency! #
+## Welcome to Horiseon Marketing Agency! ##
 
 
-## Description ##
+### Description ###
 
 
-## User Story ## 
+## User Story ###
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 
-## Acceptance Criteria ## 
+### Acceptance Criteria ###
 
 Semantic HTML elements can be found throughout the source code
 
